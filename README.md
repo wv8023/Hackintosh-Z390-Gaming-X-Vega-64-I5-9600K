@@ -1,11 +1,11 @@
 ## macOS版本：  
-**macOS Big Sur**  
-**11.2 Beta版(20D5029f)**  
+**macOS Monterey**  
+**12.0 Beta版(21A5304g)**  
 请自行到尝鲜派下载描述文件进行升级[“尝鲜派”](https://ibeta.me/  "悬停显示文字")  
   ***  
   
 ## OenCore版本：  
-**0.6.5**   
+**0.7.3**   
 ***
   
   
